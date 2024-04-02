@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Patrik
 - 👀 I’m interested in Kotlin for Mobile Development
-- I use daily:
-- https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
 - 📫 How to reach me: patrik.mlcoch@gmail.com
